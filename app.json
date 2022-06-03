@@ -1,6 +1,6 @@
 {
    "name": "Dank Farmer",
-   "repository": "https://github.com/en-25/dank-farmer",
+   "repository": "https://github.com/whyREX69/dank-farmer",
    "stack": "heroku-20",
    "env": {
       "TOKEN": {
